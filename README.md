@@ -1,5 +1,5 @@
 # VR-Virus (beta)
-VR applications are made in c # using the Unity engine, intended for learning media about viruses.
+VR applications are made in C# using the Unity engine, intended for learning media about viruses.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
