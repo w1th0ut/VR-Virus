@@ -20,5 +20,5 @@ git clone https://github.com/w1th0ut/botKIRSTAL38.git
 Set `VR-Virus` directory to your Unity directory, and open it with Unity.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[cc0-1.0](https://choosealicense.com/licenses/cc0-1.0/)
 
